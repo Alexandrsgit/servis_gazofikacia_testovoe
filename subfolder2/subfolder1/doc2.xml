@@ -1,0 +1,7 @@
+<root>
+  <node type="RIL_TEXTLINE">Text field 1</node>
+  <node type="RIL_WORD">Word 1</node>
+  <node type="RIL_WORD">Word 2</node>
+  <node type="RIL_TEXTLINE">Text field 2</node>
+  <node type="RIL_TEXTLINE">Text field 3</node>
+</root>
